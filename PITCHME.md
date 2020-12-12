@@ -120,7 +120,7 @@ _header: '**背景**'
 -->
 ### 比赛全自动运行视频 
 
-<video  src="./assets/video/IMG_0149.TRIM.MOV" controls width="100%">
+<video  src="./assets/IMG_0149.TRIM.MOV" controls width="100%">
 </video>
 
 ---
@@ -199,13 +199,10 @@ _header: '**实现**'
 _header: '**实现**'
 -->
 ## 实时性
-<!-- 
-![bg 90% drop-shadow](./assets/rt0.png)
-![bg 90% drop-shadow](./assets/rt1.png) -->
 - Linux + [PREEMPT_RT](https://rt.wiki.kernel.org/index.php/Main_Page) 补丁
 - UP Board 在 压力下的实时性测试：
 
-![width:400px drop-shadow](./assets/fig/rt0.png) ![width:400px drop-shadow](./assets/fig/rt1.png)
+![width:400px drop-shadow](./assets/rt0.png) ![width:400px drop-shadow](./assets/rt1.png)
 
 ---
 ## 软件堆栈
@@ -236,7 +233,7 @@ _header: '**软件堆栈**'
 
 <center>
 
-![width:800px drop-shadow](./assets/fig/software.png)
+![width:800px drop-shadow](./assets/software.png)
 </center>
 
 ---
@@ -246,7 +243,7 @@ _header: '**软件堆栈**'
 ### 节点图
 <center>
 
-![width:700px drop-shadow](./assets/fig/node.png)
+![width:700px drop-shadow](./assets/node.png)
 
 </center>
 
@@ -335,7 +332,7 @@ _header: '**步兵机器人实例**'
 _header: '**步兵机器人实例**'
 -->
 ## 跟踪模块
-![bg right:60% 90% drop-shadow](./assets/fig/track.png)
+![bg right:60% 90% drop-shadow](./assets/track.png)
 
 <span style="font-size:65%">
 
@@ -379,7 +376,7 @@ _header: '**步兵机器人实例**'
 _header: '**Demo**'
 -->
 ## 底盘
-<video  src="./assets/video/chassis.mp4" controls width="100%">
+<video  src="./assets/chassis.mp4" controls width="100%">
 </video>
 
 ---
@@ -387,7 +384,7 @@ _header: '**Demo**'
 _header: '**Demo**'
 -->
 ## 云台
-<video  src="./assets/video/gimbal.mp4" controls width="100%">
+<video  src="./assets/gimbal.mp4" controls width="100%">
 </video>
 
 ---
@@ -395,7 +392,7 @@ _header: '**Demo**'
 _header: '**Demo**'
 -->
 ## 5hz射击
-<video  src="./assets/video/shooter5hz.mp4" controls width="100%">
+<video  src="./assets/shooter5hz.mp4" controls width="100%">
 </video>
 
 ---
@@ -403,7 +400,7 @@ _header: '**Demo**'
 _header: '**Demo**'
 -->
 ## 20hz射击
-<video  src="./assets/video/shooter20hz.mp4" controls width="100%">
+<video  src="./assets/shooter20hz.mp4" controls width="100%">
 </video>
 
 
@@ -412,7 +409,7 @@ _header: '**Demo**'
 _header: '**Demo**'
 -->
 ## 自动飞坡
-<video  src="./assets/video/fly.mp4" controls width="100%">
+<video  src="./assets/fly.mp4" controls width="100%">
 </video>
 
 
