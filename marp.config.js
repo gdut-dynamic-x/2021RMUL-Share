@@ -3,4 +3,5 @@ module.exports = {
   ogImage: process.env.URL && `${process.env.URL}/og-image.jpg`,
   themeSet: 'themes',
   url: process.env.URL,
+  html: true,
 }

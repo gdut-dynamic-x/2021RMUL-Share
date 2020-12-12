@@ -1,5 +1,5 @@
 {
   "version": 2,
-  "name": "marp-cli-example",
+  "name": "RMUL2021广东分享会DynamicX机器人队PPT",
   "builds": [{ "src": "package.json", "use": "@now/static-build" }]
 }
