@@ -111,7 +111,7 @@ _header: '**背景**'
 
 ![width:250px](https://www1.djicdn.com/cms_uploads/ckeditor/pictures/2286/content_241ed6de92bb47d73cbd98ba23c33e74.jpg)
 
-![bg right:50% 90% drop-shadow](./assets/fig/2019summer.jpg)
+![bg right:50% 90% drop-shadow](./assets/2019summer.jpg)
 
 ---
 <!--
