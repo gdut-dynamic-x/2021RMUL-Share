@@ -404,42 +404,50 @@ _header: '**步兵机器人实例**'
 _header: '**Demo**'
 -->
 ## 底盘
-<video  src="./assets/chassis.mp4" controls width="100%">
+<center>
+<video  src="./assets/chassis.mp4" controls width="90%">
 </video>
+</center>
 
 ---
 <!--
 _header: '**Demo**'
 -->
 ## 云台
-<video  src="./assets/gimbal.mp4" controls width="100%">
+<center>
+<video  src="./assets/gimbal.mp4" controls width="90%">
 </video>
+</center>
 
 ---
 <!--
 _header: '**Demo**'
 -->
 ## 5hz射击
-<video  src="./assets/shooter5hz.mp4" controls width="100%">
+<center>
+<video  src="./assets/shooter5hz.mp4" controls width="90%">
 </video>
+</center>
 
 ---
 <!--
 _header: '**Demo**'
 -->
 ## 20hz射击
-<video  src="./assets/shooter20hz.mp4" controls width="100%">
+<center>
+<video  src="./assets/shooter20hz.mp4" controls width="90%">
 </video>
-
+</center>
 
 ---
 <!--
 _header: '**Demo**'
 -->
 ## 自动飞坡
-<video  src="./assets/fly.mp4" controls width="100%">
+<center>
+<video  src="./assets/fly.mp4" controls width="90%">
 </video>
-
+</center>
 
 ---
 # RoadMap
