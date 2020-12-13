@@ -405,7 +405,7 @@ _header: '**Demo**'
 -->
 ## 底盘
 <center>
-<video  src="./assets/chassis.mp4" controls width="90%">
+<video  src="./assets/chassis.mp4" controls width="80%">
 </video>
 </center>
 
@@ -415,7 +415,7 @@ _header: '**Demo**'
 -->
 ## 云台
 <center>
-<video  src="./assets/gimbal.mp4" controls width="90%">
+<video  src="./assets/gimbal.mp4" controls width="80%">
 </video>
 </center>
 
@@ -445,7 +445,7 @@ _header: '**Demo**'
 -->
 ## 自动飞坡
 <center>
-<video  src="./assets/fly.mp4" controls width="90%">
+<video  src="./assets/fly.mp4" controls width="80%">
 </video>
 </center>
 
