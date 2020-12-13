@@ -1,7 +1,6 @@
 ---
 theme: gaia
 _class: lead
-size: 4:3
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.jpg')
@@ -203,10 +202,19 @@ _header: '**实现**'
 _header: '**实现**'
 -->
 ## 实时性
+<span style="font-size:70%">
+
 - Linux + [PREEMPT_RT](https://rt.wiki.kernel.org/index.php/Main_Page) 补丁
 - UP Board 在 压力下的实时性测试：
+
+</span>
+
+
 <!-- cyclisttest -->
-![width:400px drop-shadow](./assets/rt0.png) ![width:400px drop-shadow](./assets/rt1.png)
+<center>
+
+![width:450px drop-shadow](./assets/rt0.png) ![width:450px drop-shadow](./assets/rt1.png)
+</center>
 
 ---
 <!--
@@ -295,6 +303,9 @@ _header: '**步兵机器人实例**'
 _header: '**步兵机器人实例**'
 -->
 ## rm_base
+
+<span style="font-size:70%">
+
 ```yaml
 joint: 
 [
@@ -318,6 +329,10 @@ plugins:
   - track_plugins::KalmanFilterTrack
 
 ```
+
+</span>
+
+
 
 ---
 <!--
