@@ -340,7 +340,7 @@ _header: '**步兵机器人实例**'
 -->
 ## 云台模块
 
-<span style="font-size:80%">
+<span style="font-size:90%">
 
 - 功能:
   - 跟踪模式: 指向期望角度(枪管姿态)
@@ -362,7 +362,7 @@ _header: '**步兵机器人实例**'
 ## 跟踪模块
 ![bg right:60% 90% drop-shadow](./assets/track.png)
 
-<span style="font-size:65%">
+<span style="font-size:70%">
 
 功能:
   - 估计装甲板位置
